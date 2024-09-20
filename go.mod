@@ -1,6 +1,6 @@
 module golang.org/x/mobile
 
-go 1.22.0
+go 1.22.7
 
 require (
 	golang.org/x/exp/shiny v0.0.0-20230817173708-d852ddb80c63
@@ -11,3 +11,4 @@ require (
 )
 
 require golang.org/x/sys v0.25.0 // indirect
+
